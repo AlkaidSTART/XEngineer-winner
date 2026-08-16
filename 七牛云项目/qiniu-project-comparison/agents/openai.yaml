@@ -1,0 +1,4 @@
+interface:
+  display_name: "七牛云项目横向整合"
+  short_description: "整合多项目并提炼共性、复用点与学习路线"
+  default_prompt: "Use $qiniu-project-comparison to compare all relevant projects, synthesize patterns, and recommend a prioritized learning and reuse roadmap."

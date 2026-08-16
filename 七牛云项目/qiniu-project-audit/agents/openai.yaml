@@ -1,0 +1,4 @@
+interface:
+  display_name: "七牛云项目单项审查"
+  short_description: "审查单个项目的架构、产品、商业与学习价值"
+  default_prompt: "Use $qiniu-project-audit to review this project end to end and produce an evidence-based architecture, product, reuse, risk, and learning report."
